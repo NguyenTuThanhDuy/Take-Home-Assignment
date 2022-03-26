@@ -1,0 +1,19 @@
+35,990,000₫  
+39,990,000₫
+CPU:M1 8CPU 8GPU
+RAM:16GB
+Ổ lưu trữ::256GB
+Card đồ họa:M1 8CPU 8GPU
+Màn hình:Retina 13.3 inch (2560x1600) IPS Led Backlit True Tone
+Cổng giao tiếp:2 Thunderbolt / USB 4 ports with support for:* Charging* DisplayPort* Thunderbolt 3 (up to 40Gb/s)* USB 3.1 Gen 2 (up to 10Gb/s)
+Bàn phím:Magic Keyboard, Touchbar, có LED
+Chuẩn LAN:Non
+Chuẩn WIFI:Wifi 802.11ac
+Bluetooth:Bluetooth 5.0
+Webcam:HD 720p
+Hệ điều hành:Mac OS
+Pin:17-20 tiếng 
+Trọng lượng:1.4kg
+Màu sắc:Bạc
+Kích thước:304 x 212 x 156 mm
+Bảo mật:Có bảo mật vân tay

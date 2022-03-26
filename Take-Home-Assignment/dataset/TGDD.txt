@@ -1,0 +1,35 @@
+34.890.000₫
+39.990.000₫
+Công nghệ CPU: Apple M1
+Số nhân: 8
+Số luồng: Hãng không công bố
+Tốc độ CPU: Hãng không công bố
+Tốc độ tối đa: Hãng không công bố
+Bộ nhớ đệm: Hãng không công bố
+RAM: 16 GB
+Loại RAM: Hãng không công bố
+Tốc độ Bus RAM: Hãng không công bố
+Hỗ trợ RAM tối đa: Không hỗ trợ nâng cấp
+Ổ cứng: 256 GB SSD
+Màn hình: 13.3 inch
+Độ phân giải: Retina (2560 x 1600)
+Tần số quét: Hãng không công bố
+Công nghệ màn hình: 500 nits brightness
+LED Backlit
+Retina
+True Tone Technology
+Tấm nền IPS
+Card màn hình: Card tích hợp - 8 nhân GPU
+Công nghệ âm thanh: 3 microphones
+Dolby Atmos
+Loa kép (2 kênh)
+Cổng giao tiếp: 2 x Thunderbolt 3 (USB-C) Jack tai nghe 3.5 mm
+Kết nối không dây: Bluetooth 5.0 Wi-Fi 6 (802.11ax)
+Webcam: HD webcam
+Đèn bàn phím: Có
+Tính năng khác: Bảo mật vân tay
+Kích thước, trọng lượng: Dài 304.1 mm - Rộng 212.4 mm - Dày 15.6 mm - Nặng 1.4 kg
+Chất liệu: Vỏ kim loại nguyên khối
+Thông tin Pin: Khoảng 10 tiếng
+Hệ điều hành: Mac OS
+Thời điểm ra mắt: 2020

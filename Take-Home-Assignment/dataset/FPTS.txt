@@ -1,0 +1,53 @@
+34.899.000₫
+39.999.000₫
+Kích thước 304.1 x 212.4 x 15.6 mm
+Trọng lượng sản phẩm 1.4 kg
+Màu sắc Xám
+Chất liệu
+Khung màn hình: Nhựa
+Mặt bàn phím + kê tay: Nhôm
+Mặt bên ngoài cùng: Nhôm
+Mặt lưng máy: Nhôm
+Hãng CPU Apple
+Công nghệ CPU M1
+Số nhân 8
+Số luồng 8
+Dung lượng RAM 16 GB
+Loại RAM LPDDR4
+Số khe cắm rời 0
+Số khe RAM còn lại 0
+Số RAM onboard 1
+Hỗ trợ RAM tối đa 16 GB
+Kích thước màn hình 13.3 inch
+Công nghệ màn hình IPS LCD LED Backlit, True Tone
+Độ phân giải 2560 x 1600 Pixels
+Loại màn hình LED
+Tấm nền IPS
+Độ phủ màu 99% sRGB
+Tỷ lệ màn hình 16:10
+Màn hình cảm ứng Không
+Hãng Apple
+Model GPU 8 nhân
+Kiểu ổ cứng
+SSD
+Hỗ trợ công nghệ Optane Không
+Dung lượng 256 GB
+Cổng giao tiếp
+1 Jack 3.5 mm
+2 Thunderbolt
+2 Type C
+Wifi
+802.11 ax
+Bluetooth v5.0
+Webcam
+HD Webcam (720p Webcam)
+Số lượng loa 2
+Công nghệ âm thanh Stereo speakers with high dynamic range
+Kiểu bàn phím English-International Backlit Keyboard
+Bàn phím số Không
+Loại đèn bàn phím LED
+Công nghệ đèn bàn phím Đơn sắc
+Màu đèn LED Trắng
+TouchPad Multi-touch touchpad
+Loại PIN Lithium polymer
+OS macOS
